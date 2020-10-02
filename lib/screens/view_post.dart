@@ -103,13 +103,6 @@ class _PostViewState extends State<PostView> {
                     //Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => HomePage()));
                   },
                 ),
-                // IconButton(icon: Icon(Icons.edit),
-                // onPressed: (){
-                //   Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => EditPost(widget.post)));
-                //   //PostService postService = PostService(widget.post.toMap());
-                //   //postService.updatePost();
-                // },
-                // ),
               ],
             ),
           ],
